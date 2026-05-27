@@ -1,43 +1,67 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=10B981&center=true&vCenter=true&width=600&lines=Hi,+I'm+Rehan+Ahmad;Welcome+to+my+profile!;I+build+things+with+code)](https://git.io/typing-svg)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=ff79c6&center=true&vCenter=true&width=600&lines=Hi,+I'm+Rehan+Ahmad;Welcome+to+my+profile!;I+build+things+with+code)
+<img src="https://avatars.githubusercontent.com/u/218220189?v=4" width="150" height="150" align="right" style="border-radius: 50%; box-shadow: 0 0 15px #bd93f988;" />
 
-<img src="https://avatars.githubusercontent.com/u/218220189?v=4" width="150" height="150" align="right" style="border-radius: 50%; box-shadow: 0 0 15px rgba(0,255,0,0.5);" />
+> [!NOTE]
+> 👋 **About Me**
+> - 🚀 Passionate coder | <kbd>TypeScript</kbd> <kbd>HTML</kbd> <kbd>Kotlin</kbd>
+> - ✨ Building tools that turn ideas into reality
+> - 🌟 Lover of open‑source & creative experiments
+> - 💻 Constantly learning, shipping, and sharing
 
-## About Me
-
-I’m Rehan Ahmad, a full‑stack enthusiast who believes that *“man will have nothing except what he strives for.”* Every line of code I write is a step toward turning ideas into tangible solutions, and I pour my energy into projects that blend elegance with utility. With 36 public repositories under my belt, I’ve explored everything from TypeScript‑driven web tools to Kotlin‑powered Android utilities, constantly sharpening my craft in both ecosystems.
-
-My recent work showcases a range of passions: a **CGPA calculator** that helps students track their academic progress, **TubeScribe** for turning YouTube links into structured notes, and an **ASCII‑art studio** where light, shadow, and code converge into mesmerizing terminal‑based visuals. I also enjoy experimenting with AI assistants, document‑to‑URL converters, and multimedia utilities like text‑to‑speech and video‑splitting tools.
-
-Beyond the screen, I’m driven by a simple mantra: do my part, and trust the rest to a higher purpose. Whether I’m refining a TypeScript type system, optimizing Kotlin coroutines, or designing intuitive UI/UX, I aim to create software that not only works but inspires. Welcome to my corner of GitHub—let’s build something meaningful together.
 ## Skills & Tools
 
-### Languages
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+### 💻 Languages
+![TypeScript](https://img.shields.io/badge/-TypeScript-ff79c6?style=for-the-badge&logo=typescript&logoColor=white) ![HTML](https://img.shields.io/badge/-HTML-ff79c6?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-ff79c6?style=for-the-badge&logo=css3&logoColor=white) ![Kotlin](https://img.shields.io/badge/-Kotlin-ff79c6?style=for-the-badge&logo=kotlin&logoColor=white)
+- Expert in TypeScript for full‑stack apps
+- Semantic HTML5 markup mastery
+- Stylish, responsive CSS3 layouts
+- Kotlin for Android‑focused projects
+> [!NOTE]
+> Goal: Contribute to open‑source TS libraries
 
-### Frontend
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+### 🚀 Frontend
+![React](https://img.shields.io/badge/-React-ff79c6?style=for-the-badge&logo=react&logoColor=white) ![Vue.js](https://img.shields.io/badge/-Vue.js-ff79c6?style=for-the-badge&logo=vue.js&logoColor=white) ![Svelte](https://img.shields.io/badge/-Svelte-ff79c6?style=for-the-badge&logo=svelte&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-ff79c6?style=for-the-badge&logo=tailwind-css&logoColor=white)
+- Build SPAs with React hooks
+- Craft reactive UIs using Vue 3
+- Leverage Svelte for minimal bundles
+- Style rapidly with Tailwind utility classes
+> [!TIP]
+> Focus: Accessible, performant UI components
 
-### Backend
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+### ⚙️ Backend
+![Node.js](https://img.shields.io/badge/-Node.js-ff79c6?style=for-the-badge&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/-Express-ff79c6?style=for-the-badge&logo=express&logoColor=white) ![NestJS](https://img.shields.io/badge/-NestJS-ff79c6?style=for-the-badge&logo=nestjs&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-ff79c6?style=for-the-badge&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-ff79c6?style=for-the-badge&logo=postgresql&logoColor=white)
+- RESTful APIs with Express & NestJS
+- Real‑time
 
-### Tools
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) ![npm](https://img.shields.io/badge/-npm-CB3837?style=for-the-badge&logo=npm&logoColor=white) ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+## Featured Repositories
+| Repo | Description |
+|------|-------------|
+| [<kbd>YouDownloder</kbd>](https://github.com/ft976/YouDownloder) | High‑speed YouTube downloader with bot‑bypass |
+| [<kbd>ASCII-art-03</kbd>](https://github.com/ft976/ASCII-art-03) | Browser‑native atelier for ASCII art |
+| [<kbd>97</kbd>](https://github.com/ft976/97) | Lovely confession for your crush |
+| [<kbd>Nagma-e-Huda-</kbd>](https://github.com/ft976/Nagma-e-Huda-) | Tafseel resource |
 
-## Currently Learning
-![Rust](https://img.shields.io/badge/-Rust-B7410E?style=for-the-badge&logo=rust&logoColor=white) ![Go](https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) ![Swift](https://img.shields.io/badge/-Swift-FFAC45?style=for-the-badge&logo=swift&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ## GitHub Statistics
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ft976&show_icons=true&theme=radium&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ft976&theme=radium&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ft976&layout=compact&theme=radium&hide_border=true" />
-</div>
-<img src="https://raw.githubusercontent.com/Ft976/Ft976/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ft976&show_icons=true&theme=dracula&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ft976&theme=dracula&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ft976&layout=compact&theme=dracula&hide_border=true" />
 
 ## Top Repositories
-| Repo | Description | Stars | Forks |
-|------|-------------|-------|-------|
-| [ASCII-art-03](https://github.com/Ft976/ASCII-art-03) | A sophisticated, browser-native atelier for digital artists to sculpt light, shadow, and code into mesmerizing ASCII symphonies | 1 | 0 |
-| [Cgpa-calculator-](https://github.com/Ft976/Cgpa-calculator-) | A clean, modern web application for university students to calculate their Semester Grade Point. | 0 | 0 |
-| [TubeScribe](https://github.com/Ft976/TubeScribe) | YouTube video link into notes. | 0 | 0 |
-| [Pic-generator-](https://github.com/Ft976/Pic-generator-) | Tti | 0 | 0 |
-| [auditext](https://github.com/Ft976/auditext) | Text to voice converter | 0 | 0 |
+| Repo | Language | Stars | Key Point |
+|------|----------|-------|-----------|
+| [<kbd>Cgpa-calculator-</kbd>](https://github.com/ft976/Cgpa-calculator-) | TypeScript | 0 | Semester GPA calculator |
+| [<kbd>TubeScribe</kbd>](https://github.com/ft976/TubeScribe) | TypeScript | 0 | Convert YouTube links to notes |
+| [<kbd>Pic-generator-</kbd>](https://github.com/ft976/Pic-generator-) | TypeScript | 0 | Image generation utility |
+| [<kbd>Rgram97-</kbd>](https://github.com/ft976/Rgram97-) | TypeScript | 0 | Telegram‑style bot |
+| [<kbd>R97-ai</kbd>](https://github.com/ft976/R97-ai) | TypeScript | 0 | AI assistant prototype |
+| [<kbd>Player-</kbd>](https://github.com/ft976/Player-) | Kotlin | 0 | Media player demo |
+
+> [!NOTE]
+> Stars and forks are current as of README generation.
+
+## Connect With Me
+[![GitHub](https://img.shields.io/badge/GitHub-Ft976-181717?logo=github)](https://github.com/Ft976)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rehan%20Ahmad-0A66C2?logo=linkedin)](https://linkedin.com/in/rehan-ahmad)
+[![Twitter](https://img.shields.io/badge/Twitter-%40Ft976-1DA1F2?logo=twitter)](https://twitter.com/Ft976)
+[![Email](https://img.shields.io/badge/Email-rehan@example.com-EA4335?logo=gmail)](mailto:rehan@example.com)
