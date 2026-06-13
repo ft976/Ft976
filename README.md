@@ -62,6 +62,6 @@
 
 ## Connect With Me
 [![GitHub](https://img.shields.io/badge/GitHub-Ft976-181717?logo=github)](https://github.com/Ft976)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rehan%20Ahmad-0A66C2?logo=linkedin)](https://linkedin.com/in/rehan-ahmad)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rehan%20Ahmad-0A66C2?logo=linkedin)](https://www.linkedin.com/in/rehan-ahmad-863386382?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 [![Twitter](https://img.shields.io/badge/Twitter-%40Ft976-1DA1F2?logo=twitter)](https://twitter.com/Ft976)
-[![Email](https://img.shields.io/badge/Email-rehan@example.com-EA4335?logo=gmail)](mailto:rehan@example.com)
+[![Email](https://img.shields.io/badge/Email-rehan@example.com-EA4335?logo=gmail)](mailto:rehan515ahmad@gmail.com)
