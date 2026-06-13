@@ -1,7 +1,6 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=ff79c6&center=true&vCenter=true&width=600&lines=Hi,+I'm+Rehan+Ahmad;Welcome+to+my+profile!;I+build+things+with+code)
 <img src="https://avatars.githubusercontent.com/u/218220189?v=4" width="150" height="150" align="right" style="border-radius: 50%; box-shadow: 0 0 15px #bd93f988;" />
 
-> [!NOTE]
 > 👋 **About Me**
 > - 🚀 Passionate coder | <kbd>TypeScript</kbd> <kbd>HTML</kbd> <kbd>Kotlin</kbd>
 > - ✨ Building tools that turn ideas into reality
@@ -64,4 +63,4 @@
 [![GitHub](https://img.shields.io/badge/GitHub-Ft976-181717?logo=github)](https://github.com/Ft976)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rehan%20Ahmad-0A66C2?logo=linkedin)](https://www.linkedin.com/in/rehan-ahmad-863386382?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 [![Twitter](https://img.shields.io/badge/Twitter-%40Ft976-1DA1F2?logo=twitter)](https://twitter.com/Ft976)
-[![Email](https://img.shields.io/badge/Email-rehan@example.com-EA4335?logo=gmail)](mailto:rehan515ahmad@gmail.com)
+[![Email](https://img.shields.io/badge/Email-rehan515ahmad@gmai.com-EA4335?logo=gmail)](mailto:rehan515ahmad@gmail.com)
