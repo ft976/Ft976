@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="136" viewBox="0 0 420 136">
+    <rect width="418" height="134" x="1" y="1" rx="10" fill="#EFF6FF" stroke="#CBD5E1" stroke-width="1.5"/>
+    <rect width="418" height="6" x="1" y="1" rx="3" fill="#2563EB"/>
+    <rect x="16" y="22" width="48" height="48" rx="8" fill="#2563EB" fill-opacity="0.14" stroke="#2563EB" stroke-width="1.2"/>
+    <text x="40" y="51" font-family="monospace" font-size="14" font-weight="800" fill="#2563EB" text-anchor="middle">DEV</text>
+    <text x="78" y="36" font-family="monospace" font-size="10" font-weight="700" fill="#2563EB" letter-spacing="0.8">DEV STICKER · 05</text>
+    <text x="78" y="58" font-family="system-ui, -apple-system, sans-serif" font-size="15" font-weight="700" fill="#0F172A">Works On My Machine</text>
+    <line x1="16" y1="84" x2="404" y2="84" stroke="#E2E8F0" stroke-width="1"/>
+    <text x="16" y="108" font-family="monospace" font-size="11" fill="#334155">Then we shall ship my laptop to the Docker cluster</text>
+  </svg>

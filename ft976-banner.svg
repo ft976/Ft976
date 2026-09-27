@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="180" viewBox="0 0 920 180">
+    <defs>
+      <linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="100%">
+        <stop offset="0%" stop-color="#B45309"/>
+        <stop offset="50%" stop-color="#1E293B"/>
+        <stop offset="100%" stop-color="#599200"/>
+      </linearGradient>
+    </defs>
+    <rect width="920" height="180" rx="10" fill="url(#g)"/>
+    <text x="460" y="82" font-family="system-ui, -apple-system, sans-serif" font-size="34" font-weight="800" fill="#FFFFFF" text-anchor="middle">Rehan Ahmad</text>
+    <text x="460" y="118" font-family="monospace" font-size="15" font-weight="600" fill="#D9F99D" text-anchor="middle">Kotlin &amp; Systems Engineer</text>
+    <rect x="0" y="172" width="920" height="8" fill="#84CC16"/>
+  </svg>
