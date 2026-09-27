@@ -1,4 +1,7 @@
-
+<!--🖼️SVG BANNER / 🌐WEBSITE: https://github.com/Akshay090/svg-banners -->
+<p align="center">
+  <img width="600" src="https://raw.githubusercontent.com/trinib/trinib/main/images/banner.svg" alt="Rehan Ahmad Banner" />
+</p>
 
 <!--🔳TERMINAL / 🌐WEBSITES: https://github.com/asciinema/asciinema & https://github.com/dstein64/gifcast -->
 <p align="center">
@@ -20,7 +23,7 @@
     <img src="https://avatars.githubusercontent.com/u/218220189?v=4" width="112" height="112" style="border-radius: 18px; border: 2px solid #BEF264;" alt="Rehan Ahmad" />
   </a>
   <h1>Rehan Ahmad (<code>@ft976</code>)</h1>
-  <p><strong>Kotlin & Systems Engineer</strong></p>
+  <p><strong>Full-Stack Kotlin, AI Pipelines & Android Systems Builder</strong></p>
   <p><em>gave it everything I had
 "And man will have nothing except what he strives for"
 53:39
@@ -28,7 +31,7 @@ doing my part. the rest is His
 </em></p>
   <p>
     <a href="https://github.com/ft976">
-      <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=3200&pause=900&color=599200&center=true&vCenter=true&width=680&lines=Rehan%20Ahmad%20%E2%80%94%20Kotlin%20%26%20Systems%20Engineer;Core%20Stack%3A%20Kotlin%20%C2%B7%20TypeScript%20%C2%B7%20HTML;63%2B%20Stars%20Across%2056%20Repositories" alt="Animated Typing Headline" />
+      <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=3200&pause=900&color=599200&center=true&vCenter=true&width=680&lines=Rehan%20Ahmad%20(%40ft976)%20%C2%B7%20Full-Stack%20Kotlin%2C%20AI%20Pipelines%20%26%20Android%20Systems%20Builder;Stack%3A%20Kotlin%20%C2%B7%20TypeScript%20%C2%B7%20HTML%20%C2%B7%20React%20%C2%B7%20Next.js;Creator%20of%2097%2C%20R97.6%2C%20R97-ai%20(56%20Repos)" alt="Animated Typing Headline" />
     </a>
   </p>
   <p>🌐 <a href="https://rehan-portfolio03.vercel.app/">rehan-portfolio03.vercel.app/</a> · 👥 85 Followers · ⏳ 1+ Years on GitHub</p>
@@ -36,7 +39,6 @@ doing my part. the rest is His
     <a href="https://github.com/ft976?tab=repositories"><img src="https://img.shields.io/badge/Public_Repos-56-0f172a?style=flat-square&logo=github" alt="Public Repos" /></a>
     <a href="https://github.com/ft976?tab=stars"><img src="https://img.shields.io/badge/Total_Stars-63-599200?style=flat-square&logo=star" alt="Total Stars" /></a>
     <a href="https://github.com/ft976?tab=followers"><img src="https://img.shields.io/badge/Followers-85-2563eb?style=flat-square&logo=github" alt="Followers" /></a>
-    <img src="https://img.shields.io/badge/AI_Engine-NVIDIA_NIM_Nemotron_70B-10b981?style=flat-square&logo=nvidia" alt="NVIDIA NIM" />
   </p>
 </div>
 
@@ -81,7 +83,11 @@ doing my part. the rest is His
 <p align="center">
   <b>FUN FACT EVERYDAY 🤔 : 
   <!--STARTS_HERE_QUOTE_README-->
-  <i>❝Around 50% of all Wikipedia vandalism is caught by a single computer program with more than 90% accuracy.❞</i>
+  <i>❝gave it everything I had
+"And man will have nothing except what he strives for"
+53:39
+doing my part. the rest is His
+ — Building across 56 repositories with Kotlin, TypeScript, HTML.❞</i>
   <!--ENDS_HERE_QUOTE_README-->
   </b>
 </p>
@@ -105,9 +111,10 @@ doing my part. the rest is His
 
 ### ⚡ About & Engineering Focus
 
-- Authored premier system configuration and security guides, securing over **6,000+ total GitHub stars**
-- Expert in **Linux automation (Shell, YAML)**, infrastructure hardening (WireGuard, DNSCrypt), and OS scripting
-- Develops cross-platform applications leveraging **Flutter, Python, and modern JavaScript/TypeScript** frameworks
+- Architected **56 public repositories** spanning **Kotlin, TypeScript, HTML, JavaScript**, featuring flagship projects like **97**, **R97.6**, **R97-ai**.
+- Full-stack & systems engineering across **React, Next.js, Tailwind CSS, Node.js, PyTorch** with a focus on production speed and clean UX.
+- Active builder with **287 annual contributions**, **63 stars**, **11 forks**, and **85 followers** on GitHub.
+- Explore live deployments, interactive apps, and engineering portfolio at **https://rehan-portfolio03.vercel.app/**.
 
 ### 🏛️ System Architecture & Engineering Standards
 
@@ -116,7 +123,7 @@ doing my part. the rest is His
 | **01. Core Runtime & Languages** | `Kotlin` · `TypeScript` · `HTML` · `JavaScript` | Strict Typing · Modular Architecture |
 | **02. Cloud & Infrastructure** | `TypeScript` · `JavaScript` · `Kotlin` · `HTML5` · `CSS3` | Automated CI/CD · Containerized Edge |
 | **03. Open-Source Ecosystem** | **56 Public Repos** · **63 Stars** · **11 Forks** | Active Issue Triage & PR Reviews |
-| **04. Engineering SLA & Quality** | Zero-Slop Production Code · 99.99% Uptime Target | Verified via GitFolio × NVIDIA NIM |
+| **04. Engineering SLA & Quality** | Zero-Slop Production Code · 99.99% Uptime Target | Automated Tests & Code Review |
 
 ### 🛠️ Working Languages, Frameworks & Services
 
@@ -148,19 +155,25 @@ doing my part. the rest is His
   <a href="https://github.com/ft976/97">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ft976&repo=97&theme=merko&border_color=599200" alt="97" />
   </a>
+  <a href="https://github.com/ft976/R-reverse">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ft976&repo=R-reverse&theme=merko&border_color=599200" alt="R-reverse" />
+  </a>
   <a href="https://github.com/ft976/Off-screen-video-recorder-">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ft976&repo=Off-screen-video-recorder-&theme=merko&border_color=599200" alt="Off-screen-video-recorder-" />
   </a>
-  <a href="https://github.com/ft976/R97-ai">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ft976&repo=R97-ai&theme=merko&border_color=599200" alt="R97-ai" />
+  <a href="https://github.com/ft976/Pic-generator-">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ft976&repo=Pic-generator-&theme=merko&border_color=599200" alt="Pic-generator-" />
   </a>
 </p>
 
 | Repository | Primary Stack | Impact | Overview |
 | :--- | :---: | :---: | :--- |
-| [**97**](https://github.com/ft976/97) | `HTML` | `★ 12 · ⑂ 8` | A lovely confession for your crush  |
+| [**97**](https://github.com/ft976/97) | `HTML` | `★ 12 · ⑂ 8` | A lovely confession for your crush |
+| [**R-reverse**](https://github.com/ft976/R-reverse) | `TypeScript` | `★ 3 · ⑂ 0` | Osint tool , Images recognition that can help to analyse images and give each and every single details.. and also meta data. |
 | [**Off-screen-video-recorder-**](https://github.com/ft976/Off-screen-video-recorder-) | `Kotlin` | `★ 3 · ⑂ 1` | Stealth background video recorder with instant minimize, adaptive foreground service, encrypted local storage, and disguised notifications for uninterrupted, discreet capture. |
+| [**Pic-generator-**](https://github.com/ft976/Pic-generator-) | `TypeScript` | `★ 1 · ⑂ 0` | Tti |
 | [**R97-ai**](https://github.com/ft976/R97-ai) | `TypeScript` | `★ 1 · ⑂ 0` | A rag model , kind off chat gpt.... Still working on back-end nd realtime data extraction. |
+| [**R97.6**](https://github.com/ft976/R97.6) | `TypeScript` | `★ 1 · ⑂ 0` | R97 ai assistant.. |
 
 <!--🖼️OCTOCAT-->
 <p align="center">
@@ -253,10 +266,10 @@ doing my part. the rest is His
 <!--RECENT_ACTIVITY:start-->
 | Date | Event | Repository | Details |
 | :--- | :--- | :--- | :--- |
-| `2026-09-26` | **Pushed to CineCut-ai** | [ft976/CineCut-ai](https://github.com/ft976/CineCut-ai) | Pushed new commits to repository |
-| `2026-09-25` | **Created branch in CineCut-ai** | [ft976/CineCut-ai](https://github.com/ft976/CineCut-ai) | Initialized new branch workflow |
-| `2026-09-25` | **Pushed to CineCut-ai** | [ft976/CineCut-ai](https://github.com/ft976/CineCut-ai) | Pushed new commits to repository |
-| `2026-09-25` | **Pushed to CineCut-ai** | [ft976/CineCut-ai](https://github.com/ft976/CineCut-ai) | Pushed new commits to repository |
+| `2026-09-27` | **Pushed to Ft976** | [ft976/Ft976](https://github.com/ft976/Ft976) | Pushed new commits to repository |
+| `2026-09-27` | **Pushed to Ft976** | [ft976/Ft976](https://github.com/ft976/Ft976) | Pushed new commits to repository |
+| `2026-09-27` | **Pushed to Ft976** | [ft976/Ft976](https://github.com/ft976/Ft976) | Pushed new commits to repository |
+| `2026-09-27` | **Pushed to Ft976** | [ft976/Ft976](https://github.com/ft976/Ft976) | Pushed new commits to repository |
 <!--RECENT_ACTIVITY:end-->
 
 <!--🤣JOYEMOJI / 🌐WEBSITE: https://github.com/seanprashad/slackmoji/ -->
@@ -279,6 +292,4 @@ doing my part. the rest is His
   <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=merko&animation=grow_out_in&layout=default&font=New%20Rocker" alt="Daily Dev Quote 3" />
 </p>
 
-<!--😻CATEMOJI / 🌐WEBSITE: https://github.com/seanprashad/slackmoji/ -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/seanprashad/slackmoji/master/emoji/llamas/llama-blood-tears-gif.gif" width="30" alt="Llama" /> <img src="https://raw.githubusercontent.com/seanprashad/slackmoji/master/emoji/llamas/llama-blood-tears-gif.gif" width="30" alt="Llama" /> <img src="https://raw.githubusercontent.com/seanprashad/slackmoji/master/emoji/llamas/llama-blood-tears-gif.gif" width="30" alt="Llama" /> <img src="https://raw.githubusercontent.com/seanprashad/slackmoji/master/emoji/llamas/llama-blood-tears-gif.gif" width="30" alt="Llama" /> <img src="https://raw.githubusercontent.com/seanprashad/slackmoji/m
+<!--😻CATEMOJI / 🌐WEBSITE: https://github.com/seanpras
